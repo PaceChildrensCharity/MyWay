@@ -144,9 +144,6 @@ export default {
       this.$refs.fileManagerToolbar.renameProject(project, projectName);
     },
     toggleUserMode() {
-      if (!this.project.userMode) {
-        this.$refs.fileManagerToolbarCollapse.hide();
-      }
       this.updated();
     }
   }
