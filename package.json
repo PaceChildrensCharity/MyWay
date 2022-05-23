@@ -15,7 +15,7 @@
   "dependencies": {
     "bootstrap-vue": "^2.16.0",
     "core-js": "^3.6.4",
-    "dexie": "^2.0.4",
+    "dexie": "^3.2.2",
     "dexie-export-import": "^1.0.0-rc.2",
     "downloadjs": "^1.4.7",
     "vue": "^2.6.11",
